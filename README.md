@@ -1,3 +1,3 @@
 # basickeylogger
 
-This is a very basic keylogger application that maps the keystrokes in your device after executing this program
+This is a very basic keylogger application which maps the keystrokes in your device after executing this program
